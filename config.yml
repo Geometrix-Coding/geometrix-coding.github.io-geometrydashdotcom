@@ -1,1 +1,3 @@
-
+git remote add origin https://github.com/Geometrix-Coding/geometrix-coding.github.io-geometrydashdotcom.git
+git branch -M main
+git push -u origin main
